@@ -1,0 +1,42 @@
+[
+  {
+    "timestamp": "2025-11-26T13:21:39.320Z",
+    "temperature": 8.4,
+    "humidity": 64
+  },
+  {
+    "timestamp": "2025-11-26T13:34:58.197Z",
+    "temperature": 3.87,
+    "humidity": 94
+  },
+  {
+    "timestamp": "2025-11-26T13:35:59.155Z",
+    "temperature": 3.87,
+    "humidity": 94
+  },
+  {
+    "timestamp": "2025-11-26T13:36:59.806Z",
+    "temperature": 3.87,
+    "humidity": 94
+  },
+  {
+    "timestamp": "2025-11-26T13:38:01.198Z",
+    "temperature": 3.87,
+    "humidity": 94
+  },
+  {
+    "timestamp": "2025-11-26T13:39:02.429Z",
+    "temperature": 3.87,
+    "humidity": 94
+  },
+  {
+    "timestamp": "2025-11-26T13:40:03.077Z",
+    "temperature": 3.87,
+    "humidity": 94
+  },
+  {
+    "timestamp": "2025-11-26T13:41:03.590Z",
+    "temperature": 3.87,
+    "humidity": 94
+  }
+]
